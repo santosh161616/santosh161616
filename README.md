@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh161616" alt="santosh161616" /></a> </p>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m a Professional **Game Developer**
 
 - 👨‍💻 All of my projects are available at [https://badsanto-games.itch.io/](https://badsanto-games.itch.io/)
 
