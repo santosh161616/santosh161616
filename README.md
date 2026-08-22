@@ -12,7 +12,7 @@ A passionate Unity Game Developer from India, focused on building games, interac
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=santosh161616" alt="santosh161616" />
+    <img src="https://github-profile-trophy.vercel.app/?username=santosh161616" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ A passionate Unity Game Developer from India, focused on building games, interac
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="santosh161616"
+      alt="LinkedIn"
       height="30"
       width="40"
     />
@@ -89,7 +89,7 @@ A passionate Unity Game Developer from India, focused on building games, interac
   </a>
 
   <a href="https://www.photoshop.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/src/images/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
 
@@ -102,22 +102,11 @@ A passionate Unity Game Developer from India, focused on building games, interac
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://santosh161616.github.io/santosh161616/github-contribution-grid-snake-dark.svg">
-
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://santosh161616.github.io/santosh161616/github-contribution-grid-snake.svg">
-
-<img
-  alt="GitHub Contribution Snake"
-  src="https://santosh161616.github.io/santosh161616/github-contribution-grid-snake.svg">
-```
-
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/santosh161616/santosh161616/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 <p align="center">
